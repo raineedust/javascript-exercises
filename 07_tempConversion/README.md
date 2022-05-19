@@ -21,3 +21,4 @@ This exercise asks you to create more than one function so the `module.exports` 
 ## Resources
 
 - [javascript - How to round to at most 2 decimal places, if necessary - Stack Overflow](https://stackoverflow.com/questions/11832914/how-to-round-to-at-most-2-decimal-places-if-necessary)
+- [How To Create a Temperature Converter With HTML and JavaScript](https://www.w3schools.com/howto/howto_js_temperature_converter.asp)
